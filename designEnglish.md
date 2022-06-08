@@ -11,7 +11,7 @@
 9. 装饰模式(Decorator Pattern) 
 10. 门面模式（Facade Pattern)外观模式
 11. 享元模式(Flyweight Pattern）
-12. 代理模式（Proxy pattern）
+12. 代理模式（Proxy Pattern）
 13. 责任链模式（Chain of Responsibility Pattern）
 14. 命令模式（Command Pattern）
 15. 解释器模式（Interpreter Pattern）

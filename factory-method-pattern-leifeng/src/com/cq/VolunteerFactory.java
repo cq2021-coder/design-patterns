@@ -1,3 +1,5 @@
+package com.cq;
+
 /**
  * 志愿者工厂
  *

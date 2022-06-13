@@ -1,3 +1,5 @@
+package com.cq;
+
 /**
  * 雷锋工厂
  *
